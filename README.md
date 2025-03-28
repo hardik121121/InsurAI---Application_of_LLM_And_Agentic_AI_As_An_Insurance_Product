@@ -1,6 +1,5 @@
 # 🚀 InsurAI - AI-Powered Insurance Advisor 🛡️🤖
 
-![InsurAI Banner](https://your-image-link.com/banner.png)
 
 ## 🌟 Introduction
 **InsurAI** is an AI-driven insurance advisory platform that helps users find the best insurance policies tailored to their **age, income, needs, and preferences**. Whether you're looking for **life, health, vehicle, or travel insurance**, InsurAI simplifies the process with **intelligent analysis, web scraping, and personalized recommendations**. 💡
@@ -87,7 +86,7 @@ We welcome contributions! Feel free to **fork the repository**, **open issues**,
 
 ## ⭐ Support & Feedback
 If you find this project useful, please **🌟 star the repository** and share your feedback!  
-🔗 **[Visit InsurAI GitHub Repo](https://github.com/hardik121121/InsurAI---Application_of_LLM_And_Agentic_AI_As_An_Insurance_Product)**
+🔗 **[Visit InsurAI Deployment Here!!](https://insurai---applicationofllmandagenticaiasaninsuranceappuct-m5jj.streamlit.app/)**
 
 ---
 
